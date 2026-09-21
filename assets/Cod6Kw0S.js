@@ -1,0 +1,1 @@
+import{I as e,J as t,b as n,p as r}from"./C2mUi6TL.js";import{p as i,u as a}from"./_983JuRI.js";var o=n({__name:`[...error]`,async setup(n){let o,s;return i(),[o,s]=t(()=>a(`/`)),await o,s(),(t,n)=>(e(),r(`div`))}});export{o as default};
