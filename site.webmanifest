@@ -1,9 +1,10 @@
 {
 	"id": "/",
-    "scope": "/",
-    "start_url": "/",
+	"scope": "/",
+	"start_url": "/",
 	"name": "Nah Criativa",
 	"short_name": "Nah Criativa",
+	"description": "Presentes Afetivos e muito mais. Confira nossos links, redes sociais e novidades da Nah Criativa. Campo Grande - RJ",
 	"icons": [
 		{
 			"src": "/images/android-chrome-192x192.png",
@@ -16,7 +17,21 @@
 			"type": "image/png"
 		}
 	],
+	"screenshots": [
+		{
+			"src": "/images/screenshot-2.webp",
+			"sizes": "838x1181",
+			"type": "image/webp",
+			"form_factor": "narrow"
+		},
+		{
+			"src": "/images/screenshot-3.webp",
+			"sizes": "1181x838",
+			"type": "image/webp",
+			"form_factor": "wide"
+		}
+	],
 	"theme_color": "#fdf7f3",
 	"background_color": "#fdf7f3",
-	"display": "fullscreen"
+	"display": "standalone"
 }
