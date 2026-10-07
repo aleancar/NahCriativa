@@ -1,0 +1,1 @@
+import{I as e,a as t,j as n}from"./GUbs_UsO.js";function r(){e({variableName:t(`scrollbar.width`).name})}function i(){n({variableName:t(`scrollbar.width`).name})}export{i as n,r as t};

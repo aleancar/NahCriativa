@@ -1,5 +1,0 @@
-import{B as e,D as t,I as n,p as r}from"./LD8_IYgO.js";import{n as i}from"./EUCZpDVQ.js";import{t as a}from"./C5STy1Vp.js";import{t as o}from"./e-vkSJuF.js";var s=i.extend({name:`checkboxgroup`,style:`
-    .p-checkbox-group {
-        display: inline-flex;
-    }
-`,classes:{root:`p-checkbox-group p-component`}}),c={name:`CheckboxGroup`,extends:{name:`BaseCheckboxGroup`,extends:o,style:s,provide:function(){return{$pcCheckboxGroup:this,$parentInstance:this}}},inheritAttrs:!1,data:function(){return{groupName:this.name}},watch:{name:function(e){this.groupName=e||a(`checkbox-group-`)}},mounted:function(){this.groupName=this.groupName||a(`checkbox-group-`)}};function l(i,a,o,s,c,l){return n(),r(`div`,t({class:i.cx(`root`)},i.ptmi(`root`)),[e(i.$slots,`default`)],16)}c.render=l;export{c as default};
